@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/index', function(){
+	return view('catalogo.index');
+});
+
 Route::get('catalogo/hombres', function(){
 	return view('catalogo.hombres.index');
 });

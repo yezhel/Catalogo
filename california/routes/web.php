@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('catalogo/hombres', function(){
+	return view('catalogo.hombres.index');
+});

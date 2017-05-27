@@ -10,6 +10,9 @@
 	<header id="header" class="">
 		<h1>Boutique California</h1>
 	</header><!-- /header -->
+	<nav>
+		@extends('layouts.navbar')	
+	</nav>
 	
 </body>
 </html>

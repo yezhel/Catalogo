@@ -15,6 +15,19 @@
 	</nav>
 	<body>
 		<h1>Esto es una prueba para resolver conflictos</h1>
+		<table>
+			<caption>table title and/or explanatory text</caption>
+			<thead>
+				<tr>
+					<th>header</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>data</td>
+				</tr>
+			</tbody>
+		</table>
 	</body>
 	
 </body>

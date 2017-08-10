@@ -29,6 +29,7 @@
 			</tbody>
 		</table>
 	</body>
+	<footer>algo aqui</footer>
 	
 </body>
 </html>

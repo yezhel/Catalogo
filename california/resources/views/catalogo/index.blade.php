@@ -13,6 +13,8 @@
 	<nav>
 		@extends('layouts.navbar')	
 	</nav>
+	<h1>Holaque haces?</h1>
+	<footer>preubas </footer>
 	
 </body>
 </html>

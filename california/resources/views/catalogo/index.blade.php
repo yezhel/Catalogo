@@ -13,8 +13,9 @@
 	<nav>
 		@extends('layouts.navbar')	
 	</nav>
-	<h1>Holaque haces?</h1>
-	<footer>preubas </footer>
+	<body>
+		<h1>Esto es una prueba para resolver conflictos</h1>
+	</body>
 	
 </body>
 </html>

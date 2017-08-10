@@ -19,12 +19,12 @@
 			<caption>table title and/or explanatory text</caption>
 			<thead>
 				<tr>
-					<th>header</th>
+					<th>header encabezado de mi tabla de yezhel</th>
 				</tr>
 			</thead>
 			<tbody>
 				<tr>
-					<td>data</td>
+					<td>datos de prueba</td>
 				</tr>
 			</tbody>
 		</table>

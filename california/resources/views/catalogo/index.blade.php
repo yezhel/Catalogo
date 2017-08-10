@@ -20,11 +20,13 @@
 			<thead>
 				<tr>
 					<th>header</th>
+					<th colspan="" rowspan="" headers="" scope=""> head 2 master</th>
 				</tr>
 			</thead>
 			<tbody>
 				<tr>
 					<td>data</td>
+					<td>data master</td>
 				</tr>
 			</tbody>
 		</table>
